@@ -7,7 +7,9 @@
 ---
 
 ## 🎯 Goal  
-Learn how backend applications handle and *store* secrets and encrypted data in real projects, so I become fluent at (1) building secure systems and (2) recognising weak designs during *authorized* security testing later.
+Learn how backend applications handle and *store* secrets and encrypted data in real projects, so I become fluent at 
+1. building secure systems
+2. recognising weak designs during *authorized* security testing later.
 
 This challenge is about **understanding developer-side encryption patterns** (what devs usually implement), common mistakes, and secure alternatives — not about exploiting others. The aim is to improve both development skills and the ability to assess systems safely and ethically.
 
